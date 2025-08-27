@@ -1,4 +1,4 @@
 # sinatra-dice-roll
 
 ## Description
-Simple dice rolling program in Ruby
+Simple dice rolling program in Ruby, Sinatra, & HTML
